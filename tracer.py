@@ -1,4 +1,4 @@
-import streamlit as st 
+import streamlit as st
 import phonenumbers
 from phonenumbers import geocoder, carrier, timezone
 import pandas as pd
